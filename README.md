@@ -2,4 +2,4 @@
 
 ## Flowchart
 
-<img width="1251" height="361" alt="Conveyor belt flowchart" src="https://github.com/user-attachments/assets/ad863d62-7668-4527-ac66-f4ac45cfc841" />
+<img width="1163" height="412" alt="lunar-flowdiagram" src="https://github.com/user-attachments/assets/a19e5697-caeb-4c2a-a0f0-91b5ce2dadb4" />
